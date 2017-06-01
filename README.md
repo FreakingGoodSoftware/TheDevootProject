@@ -5,11 +5,11 @@ Inspired in the [Agile Manifesto](http://agilemanifesto.org) this project seeks 
 
 # Core Values
 
-People teamwork and proper planning over sales agenda
-Reliability over technical experience
-Continuous integration over static deployment
-Mature technology over legacy maintenance
-Customer collaboration over contract negotiation (from Agile)
+* People teamwork and proper planning over sales agenda
+* Reliability over technical experience
+* Continuous integration over static deployment
+* Mature technology over legacy maintenance
+* Customer collaboration over contract negotiation (from Agile)
 
 # Core Principles
 
@@ -23,8 +23,8 @@ Basically the same principles of Agile for now:
 
 # Branches
 
-Development
-Maintenance & Migration
-Quality Assurance
-Sales & Marketplace
-Management
+* Development
+* Maintenance & Migration
+* Quality Assurance
+* Sales & Marketplace
+* Management
