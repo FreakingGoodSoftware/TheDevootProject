@@ -1,5 +1,5 @@
 # Development Manifesto
-Values, principles, strategies and processes to establish a next generation culture in IT development.
+Values, principles, strategies and practices to establish a next generation culture in IT development.
 
 Inspired in the [Agile Manifesto](http://agilemanifesto.org) this project seeks to gather ideas around IT development and try to improve how we build things using technology.
 
@@ -10,10 +10,11 @@ Inspired in the [Agile Manifesto](http://agilemanifesto.org) this project seeks 
 * Continuous integration over static deployment
 * Mature technology over legacy maintenance
 * Customer collaboration over contract negotiation (from Agile)
+* Fair payment and estimates over cheap and burned labor
 
 # Core Principles
 
-Basically the same principles of Agile for now:
+Basically the same principles of Agile for now since Agile is the core of all this:
 
 * Our highest priority is to satisfy the customer through early and continuous delivery of valuable software. 
 * Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage. 
@@ -30,9 +31,12 @@ Basically the same principles of Agile for now:
 * The best architectures, requirements, and designs emerge from self-organizing teams. 
 * At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly. 
 
-# Core Processes
+# Core Processes and Practices
 
-
+* Scrum or Scrumban
+* Business Analysis
+* SOLID principles
+* Proper tooling for project tracking and communication
 
 # Branches
 
