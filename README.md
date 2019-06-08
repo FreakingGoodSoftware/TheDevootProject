@@ -3,7 +3,7 @@ Values, principles, strategies and practices to establish a next generation cult
 
 Inspired in the [Agile Manifesto](http://agilemanifesto.org) this project seeks to gather ideas around IT development and try to improve how we build things using technology.
 
-What is written here will be a strong guidance for companies who develop software and hardware IT solutions to adopt and allow improve development environments for all people involved in any kind of project, from developers to customers, going through sales and management, all of the parties involved should be aware of proper development processes and practices to achieve success.
+What is written here will be a strong guidance for companies who develop software and hardware IT solutions to adopt and allow improvement of development environments for all people involved in any kind of project, from developers to customers, going through sales and management, testers and all of the parties involved shall be aware of proper development processes and practices to achieve success and measure what is success after each delivery.
 
 # Core Values
 
@@ -42,8 +42,9 @@ Basically the same principles of Agile for now since Agile is the core of all th
 
 # Branches
 
-* Development
+* Planning & Development
 * Maintenance & Migration
 * Quality Assurance
 * Sales & Marketplace
-* Management
+* Management & Operations
+* Delivery & Measurement
