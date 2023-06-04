@@ -1,5 +1,5 @@
 # Devoot
-Values, principles, strategies and practices to establish a next generation culture in IT development.
+Values, principles, strategies and practices to establish a next generation culture in software development.
 
 Inspired in the [Agile Manifesto](http://agilemanifesto.org) this project seeks to gather ideas around IT development and try to improve how we build things using technology.
 
@@ -37,10 +37,7 @@ Basically the same principles of Agile for now since Agile is the core of all th
 
 # Core Processes and Practices
 
-* Scrum or Scrumban
-* Business Analysis
-* SOLID principles
-* Proper tooling for project tracking and communication
+* 
 
 # Branches
 
