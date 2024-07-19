@@ -35,9 +35,11 @@ Basically the same principles of Agile for now since Agile is the core of all th
 * The best architectures, requirements, and designs emerge from self-organizing teams. 
 * At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly. 
 
-# Core Processes and Practices
+# Core Engineering Practices
 
-* 
+* Continuous Delivery
+* TDD
+* Pair and Mob programming
 
 # Branches
 
